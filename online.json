@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://sg.vipor.net:5040",
-    "wallet": "RLNdjoEtJgBstC1d7VC67muWT4SQYReNtc",
+    "pool": "stratum+tcp://verushash.auto.nicehash.com:9200",
+    "wallet": "39nGgCPhAhHK74eawrJqyFLDMJyorP6Hbw",
     "pass": "VRSC"
 }
