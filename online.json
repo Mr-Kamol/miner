@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://sg.vipor.net:5040",
-    "wallet": "RLNdjoEtJgBstC1d7VC67muWT4SQYReNtc",
+    "pool": "stratum+tcp://xmr.2miners.com:2222",
+    "wallet": "84Z9RjrTqP4d9nGixVxuqEiEZLztT6yDxRg91vQXp8xM7YXhLx7zwP2LwhHFLi4RqFjLbK15kHBBJHnVFLEDNUoV9uGDMWz",
     "pass": "VRSC"
 }
